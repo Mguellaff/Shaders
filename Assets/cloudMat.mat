@@ -53,9 +53,10 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _cloudDensity: 4.2
-    - _cloudSpeed: 0.01
-    - _scale: 61.8
+    - _alpha: 3.85
+    - _cloudDensity: 3.75
+    - _cloudSpeed: 0.02
+    - _scale: 65.78
     m_Colors:
-    - _cloudColor: {r: 1.9018571, g: 2.670157, b: 1.9772383, a: 0}
+    - _cloudColor: {r: 3.5648696, g: 3.5648696, b: 3.5648696, a: 0}
   m_BuildTextureStacks: []
