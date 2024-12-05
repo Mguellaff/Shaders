@@ -82,8 +82,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _1: 136.75
-    - _2: 0.37
+    - _1: 16.45
+    - _2: 3.75
     - _3: 0.05
     - _AlphaClip: 0
     - _AlphaToMask: 0
@@ -116,12 +116,15 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
-    - _alpha: 1
-    - _density: 19
-    - _fuzzinessMask: 6.6
-    - _height: 1.2
-    - _rangeMask: 1.05
-    - _speed: 0
+    - _alpha: 1.57
+    - _density: 45.58
+    - _fresnel: 8.2
+    - _fuzzinessMask: 29.42
+    - _height: 0.4
+    - _multiply: 8.4
+    - _rangeMask: 0.9
+    - _specularSize: 73.1
+    - _speed: 0.05
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
@@ -129,7 +132,8 @@ Material:
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _movementSpeed: {r: 0.002, g: 0.002, b: 0, a: 0}
     - _secondaryColor: {r: 1, g: 1, b: 1, a: 1}
-    - _waterColor: {r: 0, g: 0.44900656, b: 1, a: 0}
+    - _specularColor: {r: 0, g: 0.9129884, b: 1, a: 0}
+    - _waterColor: {r: 0, g: 0.22047517, b: 1, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &601127259867441687
 MonoBehaviour:
