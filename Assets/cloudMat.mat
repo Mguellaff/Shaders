@@ -62,7 +62,7 @@ Material:
     - _fresnel: 5.93
     - _multiply: -264.3
     - _scale: 257.91
-    - _scaleDistort: 3.86
+    - _scaleDistort: 1
     - _specularIntensity: 6.75
     m_Colors:
     - _ambientLightColor: {r: 1, g: 1, b: 1, a: 0}
