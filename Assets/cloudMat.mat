@@ -56,12 +56,12 @@ Material:
     - _alpha: 41
     - _ambientLightIntensity: 2.58
     - _cloudDensity: 3.92
-    - _cloudSpeed: 0.02
+    - _cloudSpeed: 0.005
     - _diffuseLightIntensity: 3.57
     - _distortSpeed: 0.1
     - _fresnel: 5.93
     - _multiply: -264.3
-    - _scale: 105.41
+    - _scale: 257.91
     - _scaleDistort: 3.86
     - _specularIntensity: 6.75
     m_Colors:
