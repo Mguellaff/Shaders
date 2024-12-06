@@ -55,18 +55,18 @@ Material:
     - _QueueOffset: 0
     - _alpha: 41
     - _ambientLightIntensity: 2.58
-    - _cloudDensity: 4
+    - _cloudDensity: 3.92
     - _cloudSpeed: 0.02
     - _diffuseLightIntensity: 3.57
-    - _distortSpeed: 0.02
+    - _distortSpeed: 0.1
     - _fresnel: 5.93
     - _multiply: -264.3
-    - _scale: 59.8
-    - _scaleDistort: 1.9
+    - _scale: 105.41
+    - _scaleDistort: 3.86
     - _specularIntensity: 6.75
     m_Colors:
     - _ambientLightColor: {r: 1, g: 1, b: 1, a: 0}
-    - _cloudColor: {r: 191.74902, g: 191.74902, b: 191.74902, a: 0}
+    - _cloudColor: {r: 0.7490196, g: 0.7490196, b: 0.7490196, a: 0}
     - _diffuseLightColor: {r: 1, g: 0.6179245, b: 0.6179245, a: 0}
     - _specularColor: {r: 1, g: 0.24999997, b: 0.24999997, a: 0}
   m_BuildTextureStacks: []

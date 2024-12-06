@@ -117,22 +117,44 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     - _alpha: 1.57
+    - _ambientlightintensity: 0
     - _density: 45.58
+    - _depth: 10.67
+    - _diffuselightintensity: 0
+    - _foam: 6.1
+    - _foamcutoff: 4.54
+    - _foamscale: 97.23
     - _fresnel: 8.2
+    - _fresnel_1: 0
     - _fuzzinessMask: 29.42
     - _height: 0.4
     - _multiply: 8.4
     - _rangeMask: 0.9
+    - _refraction: 11.74
+    - _refractionscale: 5.94
+    - _scale: 4.2
     - _specularSize: 73.1
-    - _speed: 0.05
+    - _specularintensity: 0
+    - _speed: 17.05
+    - _speed_1: 2
+    - _surfacewater: 0
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _ambiantlightcolor: {r: 0, g: 0, b: 0, a: 0}
+    - _deepcolor: {r: 0, g: 0.08320042, b: 1, a: 0}
+    - _deepwater: {r: 0, g: 0.33101597, b: 1, a: 0.49019608}
+    - _diffuselightcolor: {r: 0, g: 0, b: 0, a: 0}
+    - _foamcolor: {r: 1, g: 1, b: 1, a: 0}
     - _movementSpeed: {r: 0.002, g: 0.002, b: 0, a: 0}
     - _secondaryColor: {r: 1, g: 1, b: 1, a: 1}
+    - _shallow: {r: 0, g: 0.68485904, b: 1, a: 0.57254905}
     - _specularColor: {r: 0, g: 0.9129884, b: 1, a: 0}
+    - _specularcolor: {r: 0, g: 0, b: 0, a: 0}
+    - _surfacecolor1: {r: 0, g: 0.7176819, b: 1, a: 0}
+    - _surfacewater: {r: 0, g: 0.7215686, b: 1, a: 0}
     - _waterColor: {r: 0, g: 0.22047517, b: 1, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &601127259867441687
